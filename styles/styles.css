@@ -212,8 +212,8 @@ main .section.highlight {
 .highlight .cards-wrapper .cards ul{
  background-color : red;
 }
-@media (width >= 900px) {
-  .highlight .cards-wrapper .cards ul li p {
+@media (width < 900px) {
+  .highlight .cards-wrapper .cards ul li p strong{
     display: none;
   }
 }

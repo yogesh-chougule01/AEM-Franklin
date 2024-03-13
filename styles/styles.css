@@ -212,7 +212,7 @@ main .section.highlight {
 .highlight .cards-wrapper .cards ul{
  background-color : red;
 }
-@media (min-width: 900px) {
+@media (width >= 900px) {
   .highlight .cards-wrapper .cards ul li p {
     display: none;
   }

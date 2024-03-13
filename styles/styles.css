@@ -208,3 +208,6 @@ main .section.light,
 main .section.highlight {
   background-color: var(--light-color);
 }
+.highlight.cards-wrapper.ul {
+  background-color : red;
+}

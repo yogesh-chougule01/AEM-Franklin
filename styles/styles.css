@@ -213,7 +213,7 @@ main .section.highlight {
  background-color : red;
 }
 @media (width < 900px) {
-  .highlight .cards-wrapper .cards ul li p strong{
+  .highlight .cards-wrapper .cards ul li .cards-card-body  :first-child {
     display: none;
   }
 }

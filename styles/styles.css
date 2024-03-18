@@ -232,7 +232,7 @@ main .section.highlight {
     padding: 3% 3%;
     width: 18%;
 }
-.footer .section .test-title-wrapper .test-title :first-child :second-child {
+.footer .section .test-title-wrapper .test-title > :first-child > :nth-child(2) {
     padding: 3% 3%;
     width: 18%;
 }

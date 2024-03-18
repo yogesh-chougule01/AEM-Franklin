@@ -248,7 +248,9 @@ main .section.highlight {
     padding: 3% 3%;
     width: 18%;
 
-  
+.footer .section .test-title-wrapper .test-title :nth-child(2) {
+  display: flex;
+}
 }.footer .section .test-title-wrapper .test-title > :nth-child(2) > :nth-child(1) {
     padding: 3% 3%;
     width: 18%;

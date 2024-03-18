@@ -264,3 +264,22 @@ main .section.highlight {
 }
 
 
+.footer .section .test-title-wrapper .test-title :nth-child(3) {
+  display: flex;
+}
+.footer .section .test-title-wrapper .test-title > :nth-child(3) > :first-child {
+    padding: 0% 3%;
+    width: 18%;
+}.footer .section .test-title-wrapper .test-title > :nth-child(3) > :nth-child(2) {
+    padding: 0% 3%;
+    width: 18%;
+}.footer .section .test-title-wrapper .test-title > :nth-child(3) > :nth-child(3) {
+    padding: 0% 3%;
+    width: 18%;
+}
+.footer .section .test-title-wrapper .test-title > :nth-child(3) > :nth-child(4) {
+    padding: 0% 3%;
+    width: 18%;
+}
+
+

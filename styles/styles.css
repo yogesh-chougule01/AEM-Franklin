@@ -228,7 +228,7 @@ main .section.highlight {
 .footer .section .test-title-wrapper .test-title :nth-child(1) {
   display: flex;
 }
-.footer .section .test-title-wrapper .test-title nth-child(1) div :nth-child(1) {
+.footer .section .test-title-wrapper .test-title :first-child :first-child {
     padding: 3% 3%;
     width: 18%;
 }

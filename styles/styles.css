@@ -217,4 +217,7 @@ main .section.highlight {
     display: none;
   }
 }
-  
+
+.footer-wrapper{
+  background-color : red;
+}

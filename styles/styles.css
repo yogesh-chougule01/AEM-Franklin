@@ -231,10 +231,12 @@ main .section.highlight {
 .footer .section .test-title-wrapper .test-title :first-child :first-child {
     padding: 3% 3%;
     width: 18%;
+    color: aliceblue;
 }
 .footer .section .test-title-wrapper .test-title > :first-child > :nth-child(2) {
     padding: 3% 3%;
     width: 18%;
+    color: aliceblue;
 }
 .footer .section .test-title-wrapper .test-title > :first-child > :nth-child(3) {
     padding: 3% 3%;
@@ -243,6 +245,7 @@ main .section.highlight {
 .footer .section .test-title-wrapper .test-title > :first-child > :nth-child(4) {
     padding: 3% 3%;
     width: 18%;
+    color: aliceblue;
 }
 
 .footer .section .test-title-wrapper .test-title :nth-child(2) {

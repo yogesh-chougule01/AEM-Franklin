@@ -225,3 +225,11 @@ main .section.highlight {
 .footer .section .default-content-wrapper :nth-child(2) {
   text-align: center;
 }
+.footer .section .test-title-wrapper .test-title :nth-child(1) {
+  display: flex;
+}
+.footer .section .test-title-wrapper .test-title :nth-child(1) : nth-child(1) {
+    padding: '3% 3%';
+    width: '18%';
+}
+}

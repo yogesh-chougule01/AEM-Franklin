@@ -292,18 +292,22 @@ main .section.highlight {
   display: flex;
 }
 .footer .section .test-title-wrapper .test-title > :nth-child(4) > :first-child {
-    padding: 1% 3%;
+     padding: 1% 3%;
     width: 18%;
+    color: #d2ee4b;
 }.footer .section .test-title-wrapper .test-title > :nth-child(4) > :nth-child(2) {
     padding: 1% 3%;
     width: 18%;
+    color: #d2ee4b;
 }.footer .section .test-title-wrapper .test-title > :nth-child(4) > :nth-child(3) {
     padding: 1% 3%;
     width: 18%;
+    color: #d2ee4b;
 }
 .footer .section .test-title-wrapper .test-title > :nth-child(4) > :nth-child(4) {
-    padding: 1% 3%;
+     padding: 1% 3%;
     width: 18%;
+    color: #d2ee4b;
 }
 
 
@@ -311,18 +315,22 @@ main .section.highlight {
   display: flex;
 }
 .footer .section .test-title-wrapper .test-title > :nth-child(5) > :first-child {
-    padding: 1% 3%;
+     padding: 1% 3%;
     width: 18%;
+    color: #d2ee4b;
 }.footer .section .test-title-wrapper .test-title > :nth-child(5) > :nth-child(2) {
     padding: 1% 3%;
     width: 18%;
+    color: #d2ee4b;
 }.footer .section .test-title-wrapper .test-title > :nth-child(5) > :nth-child(3) {
-    padding: 1% 3%;
+     padding: 1% 3%;
     width: 18%;
+    color: #d2ee4b;
 }
 .footer .section .test-title-wrapper .test-title > :nth-child(5) > :nth-child(4) {
-    padding: 1% 3%;
+     padding: 1% 3%;
     width: 18%;
+    color: #d2ee4b;
 }
 
 
@@ -331,37 +339,44 @@ main .section.highlight {
   display: flex;
 }
 .footer .section .test-title-wrapper .test-title > :nth-child(6) > :first-child {
-    padding: 1% 3%;
+     padding: 1% 3%;
     width: 18%;
+    color: #d2ee4b;
 }.footer .section .test-title-wrapper .test-title > :nth-child(6) > :nth-child(2) {
-    padding: 1% 3%;
+     padding: 1% 3%;
     width: 18%;
+    color: #d2ee4b;
 }.footer .section .test-title-wrapper .test-title > :nth-child(6) > :nth-child(3) {
-    padding: 1% 3%;
+     padding: 1% 3%;
     width: 18%;
+    color: #d2ee4b;
 }
 .footer .section .test-title-wrapper .test-title > :nth-child(6) > :nth-child(4) {
-    padding: 1% 3%;
-    width: 18%;
-}
+     padding: 1% 3%;
+     width: 18%;
+    color: #d2ee4b;}
 
 
 .footer .section .test-title-wrapper .test-title :nth-child(7) {
   display: flex;
 }
 .footer .section .test-title-wrapper .test-title > :nth-child(7) > :first-child {
-    padding: 1% 3%;
+     padding: 1% 3%;
     width: 18%;
+    color: #d2ee4b;
 }.footer .section .test-title-wrapper .test-title > :nth-child(7) > :nth-child(2) {
     padding: 1% 3%;
     width: 18%;
+    color: #d2ee4b;
 }.footer .section .test-title-wrapper .test-title > :nth-child(7) > :nth-child(3) {
-    padding: 1% 3%;
+     padding: 1% 3%;
     width: 18%;
+    color: #d2ee4b;
 }
 .footer .section .test-title-wrapper .test-title > :nth-child(7) > :nth-child(4) {
     padding: 1% 3%;
     width: 18%;
+    color: #d2ee4b;
 }
 
 
@@ -371,16 +386,20 @@ main .section.highlight {
 .footer .section .test-title-wrapper .test-title > :nth-child(8) > :first-child {
     padding: 1% 3%;
     width: 18%;
+    color: #d2ee4b;
 }.footer .section .test-title-wrapper .test-title > :nth-child(8) > :nth-child(2) {
-    padding: 1% 3%;
+     padding: 1% 3%;
     width: 18%;
+    color: #d2ee4b;
 }.footer .section .test-title-wrapper .test-title > :nth-child(8) > :nth-child(3) {
     padding: 1% 3%;
     width: 18%;
+    color: #d2ee4b;
 }
 .footer .section .test-title-wrapper .test-title > :nth-child(8) > :nth-child(4) {
     padding: 1% 3%;
     width: 18%;
+    color: #d2ee4b;
 }
 
 

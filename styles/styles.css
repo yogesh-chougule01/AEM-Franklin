@@ -249,17 +249,17 @@ main .section.highlight {
   display: flex;
 }
 .footer .section .test-title-wrapper .test-title > :nth-child(2) > :first-child {
-    padding: 3% 3%;
+    padding: 0% 3%;
     width: 18%;
 }.footer .section .test-title-wrapper .test-title > :nth-child(2) > :nth-child(2) {
-    padding: 3% 3%;
+    padding: 0% 3%;
     width: 18%;
 }.footer .section .test-title-wrapper .test-title > :nth-child(2) > :nth-child(3) {
-    padding: 3% 3%;
+    padding: 0% 3%;
     width: 18%;
 }
 .footer .section .test-title-wrapper .test-title > :nth-child(2) > :nth-child(4) {
-    padding: 3% 3%;
+    padding: 0% 3%;
     width: 18%;
 }
 

@@ -392,8 +392,9 @@ main .section.highlight {
     text-align: center;
     margin: 55px 0px 15px 1px;
 }
-.footer-wrapper .footer > :first-child .section > :first-child > : nth-child(2) {
+.footer-wrapper .footer > :first-child .section > :first-child > :nth-child(2) {
     font-size: 42px;
     font-family: revert-layer;
     font-weight: 900;
 }
+

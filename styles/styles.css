@@ -221,3 +221,7 @@ main .section.highlight {
 .footer-wrapper{
   background-color : red;
 }
+
+.footer .section .default-content-wrapper :nth-child(2) {
+  text-align: center;
+}

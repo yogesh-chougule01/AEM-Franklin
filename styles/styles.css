@@ -239,8 +239,9 @@ main .section.highlight {
     color: aliceblue;
 }
 .footer .section .test-title-wrapper .test-title > :first-child > :nth-child(3) {
-    padding: 3% 3%;
-    width: 18%;
+     padding: 3% 3%;
+     width: 18%;
+     color: aliceblue;
 }
 .footer .section .test-title-wrapper .test-title > :first-child > :nth-child(4) {
     padding: 3% 3%;
